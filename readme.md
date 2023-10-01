@@ -1,6 +1,7 @@
 # Group Project Idea
 
 API: https://spoonacular.com/food-api/docs#Search-Recipes-Complex
+
 The problem domain our group will be focusing on is a cooking. Our team is considering an application where users
 can input food intolerances, a budget, type of cuisine, and equipment available into the request parameters and
 receive a few recipes that meet their specified guidelines.
