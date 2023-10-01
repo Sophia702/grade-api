@@ -1,4 +1,4 @@
-# GroupProjectIdea
+# Group Project Idea
 
 API: https://spoonacular.com/food-api/docs#Search-Recipes-Complex
 The problem domain our group will be focusing on is a cooking. Our team is considering an application where users
