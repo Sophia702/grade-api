@@ -8,7 +8,7 @@ receive a few recipes that meet their specified guidelines.
 Testing out the API:
 ![img.png](img.png)
 GET request to:
-https://api.spoonacular.com/recipes/complexSearch?apiKey=<API_KEY>&cuisine=thai&intolerance=gluten&number=1
+https://api.spoonacular.com/recipes/complexSearch?apiKey=<1b1f342ee2a54ef39cd07aabf1809ef1>&cuisine=thai&intolerance=gluten&number=1
 
 Sample output:
 Response{protocol=h2, code=200, message=, url=https://api.spoonacular.com/recipes/complexSearch?apiKey=1b1f342ee2`a54ef39cd07aabf1809ef1&cuisine=thai&intolerance=gluten&number=1}
